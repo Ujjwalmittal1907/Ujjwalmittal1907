@@ -4,11 +4,12 @@
 
 
 ## 🚀 About Me:
--  I'm a  pursuing my bachlor degree in **Mathematics and Computing (MNC)** from **NIT Hamirpur**.
-- 🔭 I’m currently focused on enhancing my skills in **Web Development** and **Data Structures & Algorithms (DSA)**.
-- 🌱 Learning never stops for me—I’m diving deep into both **frontend** and **backend** technologies to build robust web applications.
-- 🤝 Open to collaborating on exciting Web3, development, or DSA projects.
-- ⚡ Fun fact: I love solving puzzles and exploring tech innovations in my free time!
+- 🎓 Pursuing a bachelor's in **Mathematics and Computing (MNC)** at **NIT Hamirpur**.  
+- 💻 Sharpening skills in **Web Development** and **Data Structures & Algorithms (DSA)**.  
+- 🌟 Exploring both **frontend** and **backend** tech to build impactful web apps.  
+- 🤝 Open to collaborations on Web3, DSA, or innovative dev projects.  
+- 🧩 Puzzle lover and tech enthusiast, always exploring new innovations!
+
 <br>
 
 
